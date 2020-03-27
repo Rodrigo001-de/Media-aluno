@@ -1,0 +1,20 @@
+C:\Users\Oduel\Documents\Visual Studio\Projetos\MediaAluno\MediaAluno\bin\Debug\MediaAluno.exe.config
+C:\Users\Oduel\Documents\Visual Studio\Projetos\MediaAluno\MediaAluno\bin\Debug\MediaAluno.exe
+C:\Users\Oduel\Documents\Visual Studio\Projetos\MediaAluno\MediaAluno\bin\Debug\MediaAluno.pdb
+C:\Users\Oduel\Documents\Visual Studio\Projetos\MediaAluno\MediaAluno\obj\Debug\MediaAluno.csprojAssemblyReference.cache
+C:\Users\Oduel\Documents\Visual Studio\Projetos\MediaAluno\MediaAluno\obj\Debug\MediaAluno.r.resources
+C:\Users\Oduel\Documents\Visual Studio\Projetos\MediaAluno\MediaAluno\obj\Debug\MediaAluno.Properties.Resources.resources
+C:\Users\Oduel\Documents\Visual Studio\Projetos\MediaAluno\MediaAluno\obj\Debug\MediaAluno.csproj.GenerateResource.cache
+C:\Users\Oduel\Documents\Visual Studio\Projetos\MediaAluno\MediaAluno\obj\Debug\MediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\Oduel\Documents\Visual Studio\Projetos\MediaAluno\MediaAluno\obj\Debug\MediaAluno.exe
+C:\Users\Oduel\Documents\Visual Studio\Projetos\MediaAluno\MediaAluno\obj\Debug\MediaAluno.pdb
+C:\Users\Oduel\Documents\Visual Studio\Projetos\Media Aluno\MediaAluno\bin\Debug\MediaAluno.exe.config
+C:\Users\Oduel\Documents\Visual Studio\Projetos\Media Aluno\MediaAluno\bin\Debug\MediaAluno.exe
+C:\Users\Oduel\Documents\Visual Studio\Projetos\Media Aluno\MediaAluno\bin\Debug\MediaAluno.pdb
+C:\Users\Oduel\Documents\Visual Studio\Projetos\Media Aluno\MediaAluno\obj\Debug\MediaAluno.csprojAssemblyReference.cache
+C:\Users\Oduel\Documents\Visual Studio\Projetos\Media Aluno\MediaAluno\obj\Debug\MediaAluno.r.resources
+C:\Users\Oduel\Documents\Visual Studio\Projetos\Media Aluno\MediaAluno\obj\Debug\MediaAluno.Properties.Resources.resources
+C:\Users\Oduel\Documents\Visual Studio\Projetos\Media Aluno\MediaAluno\obj\Debug\MediaAluno.csproj.GenerateResource.cache
+C:\Users\Oduel\Documents\Visual Studio\Projetos\Media Aluno\MediaAluno\obj\Debug\MediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\Oduel\Documents\Visual Studio\Projetos\Media Aluno\MediaAluno\obj\Debug\MediaAluno.exe
+C:\Users\Oduel\Documents\Visual Studio\Projetos\Media Aluno\MediaAluno\obj\Debug\MediaAluno.pdb
